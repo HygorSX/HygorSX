@@ -24,3 +24,5 @@
   <a href="https://www.linkedin.com/in/hygor-abrantes-5954a5262/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </div>
   
+  ![Snake animation](https://github.com/HygorSX/HygorSX/blob/output/github-contribution-grid-snake.svg)
+  
