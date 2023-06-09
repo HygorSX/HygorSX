@@ -1,4 +1,5 @@
-### Olá! eu sou o Hygor, atualmente estou cursando informática para internet em um instituto técnico e sou apaixonado por programação🎒
+### Olá! eu sou o Hygor, e sou apaixonado por programação🎒<br>
+<p>Atualmente estou no segundo ano de informática para internet.</p>
 
 - 🌱 Estou estudando HTML, CSS e JS
 - 📫 Contate-me no e-mail: hygor.mecap@gmail.com
