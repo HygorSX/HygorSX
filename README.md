@@ -19,7 +19,6 @@
   <img align="center" alt="HygorCSS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="HygorJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </div>
-  <img src="https://undraw.co/search/undraw_taken_re_yn20" />
   
 ##
   <div>
