@@ -23,6 +23,8 @@
 ##
   <div>
   <a href="https://www.linkedin.com/in/hygor-abrantes-5954a5262/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+            <img align="right" height="204em" widht="108em" src="https://i.giphy.com/media/4OV1bLOIWwIXRxpXlN/giphy.webp">
   </div>
   
   
