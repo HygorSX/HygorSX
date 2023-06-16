@@ -23,7 +23,7 @@
 ##
   <div>
   <a href="https://www.linkedin.com/in/hygor-abrantes-5954a5262/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-            <img align="right" height="204em" widht="108em" src="https://github.com/HygorSX/HygorSX/assets/116827177/93504cf8-a79f-4925-839c-4d562e804fb3">
+            <img align="right" height="204em" widht="108em" src="https://gifs.alphacoders.com/gifs/view/210436">
   </div>
   
   
