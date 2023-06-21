@@ -8,7 +8,6 @@
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=HygorSX&show_icons=true&theme=midnight-purple"
-  media="(prefers-color-scheme: dark)"
 />
  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=HygorSX&show_icons=true" />
 </picture>
