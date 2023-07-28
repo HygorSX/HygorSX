@@ -19,7 +19,7 @@
   <img align="center" alt="HygorJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img align="center" alt="HygorCSharp" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </div><br>
-<strong><h1>Frameworks<h1></strong><br>
+<strong><h2>Frameworks<h2></strong>
 
 <img align="center" alt="HygorDotNet" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
           
