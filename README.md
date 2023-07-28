@@ -14,6 +14,7 @@
  <img width="37%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=HygorSX&layout=compact&theme=midnight-purple" />
   </div>
   <div style="display: inline-block"><br>
+    <h2>Linguagens</h2>
   <img align="center" alt="HygorHTML" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="HygorCSS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="HygorJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
