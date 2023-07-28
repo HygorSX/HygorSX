@@ -1,7 +1,7 @@
 ### Olá! eu sou o Hygor, e sou apaixonado por programação🎒<br>
 <p>Atualmente estou no segundo ano de informática para internet.</p>
 
-- 🌱 Estou estudando HTML, CSS e JS
+- 🌱 Estou estudando C# e JS
 - 📫 Contate-me no e-mail: hygor.mecap@gmail.com
 
 <div>
@@ -19,7 +19,7 @@
   <img align="center" alt="HygorJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img align="center" alt="HygorCSharp" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </div><br>
-Frameworks<br>
+<strong>Frameworks</strong><br>
 
 <img align="center" alt="HygorDotNet" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
           
