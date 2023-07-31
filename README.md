@@ -20,16 +20,20 @@
   <img align="center" alt="HygorJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img align="center" alt="HygorCSharp" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </div><br>
-<strong><h2>Frameworks🌐<h2></strong>
 
-<img align="center" alt="HygorDotNet" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
-          
-##
-  <div>
+ <div>
+ <h2>Frameworks🌐</h2> 
+<img align="center" alt="HygorDotNet" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /><br>
+     </div>
+ <div><br>
+    <h2>Contatos💻</h2>
   <a href="https://www.linkedin.com/in/hygor-abrantes-5954a5262/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-            <img align="right" height="220em" widht="200em" src="https://github.com/HygorSX/HygorSX/assets/116827177/a5529899-924b-45e5-b694-a65049663874">
-  </div>
+   </div>    
+    <img src="https://github.com/HygorSX/HygorSX/assets/116827177/246cdd54-3c36-4c69-a4ca-4dce979e8668">
+  
 
   
- 
+
+
+
 
