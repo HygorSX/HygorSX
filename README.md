@@ -26,7 +26,7 @@
 <img align="center" alt="HygorDotNet" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /><br>
      </div>
  <div><br>
-    <h2>Contatos💻</h2>
+    <h2>Contatos📱</h2>
   <a href="https://www.linkedin.com/in/hygor-abrantes-5954a5262/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </div>    
     <img width="220em"src="https://github.com/HygorSX/HygorSX/assets/116827177/8c5591a9-c7f0-4d23-92c4-a3e6e79b082f">
