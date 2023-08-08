@@ -14,15 +14,16 @@
  <img width="37%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=HygorSX&layout=compact&theme=midnight-purple" />
   </div>
   <div style="display: inline-block"><br>
-    <h2>Linguagens💻</h2>
-  <img align="center" alt="HygorHTML" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="HygorCSS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="HygorJS" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  <img align="center" alt="HygorCSharp" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <h2>Tecnologias💻</h2>
+  <img align="center" alt="HygorHTML" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="HygorCSS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="HygorJS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+  <img align="center" alt="HygorCSharp" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="HygoGit" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div><br>
 
  <div>
- <h2>Frameworks🌐</h2> 
+ <h2>Frameworks👨‍💻</h2> 
 <img align="center" alt="HygorDotNet" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /><br>
      </div>
  <div><br>
