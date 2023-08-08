@@ -11,7 +11,7 @@
 />
  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=HygorSX&show_icons=true" />
 </picture>
- <img width="37%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=HygorSX&layout=compact&theme=midnight-purple" />
+ <img width="37.6%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=HygorSX&layout=compact&theme=midnight-purple" />
   </div>
   <div style="display: inline-block"><br>
     <h2>Tecnologias💻</h2>
