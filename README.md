@@ -24,7 +24,7 @@
 
  <div>
  <h2>Frameworks👨‍💻</h2> 
-<img align="center" alt="HygorDotNet" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /><br>
+<img align="center" alt="HygorDotNett" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /><br>
      </div>
  <div><br>
     <h2>Contatos📱</h2>
