@@ -24,8 +24,9 @@
 
  <div>
  <h2>Frameworks👨‍💻</h2> 
-<img align="center" alt="HygorDotNett" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /><br>
-     </div>
+<img alt="HygorDotNett" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />
+<img alt="HygorDotNetCore" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /><br>
+ </div>
  <div><br>
     <h2>Contatos📱</h2>
   <a href="https://www.linkedin.com/in/hygor-dev-backend/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
