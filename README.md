@@ -24,7 +24,6 @@
 [![Azure](https://img.shields.io/badge/-Azure-512BD4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=512BD4)](https://example.com/)
 [![Docker](https://img.shields.io/badge/-Docker-512BD4?style=for-the-badge&logo=docker&logoColor=white&labelColor=512BD4)](https://example.com/)
 [![VisualStudio](https://img.shields.io/badge/-Visual_Studio-512BD4?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=512BD4)](https://example.com/)
-
 [![SqlServer](https://img.shields.io/badge/-SqlServer-512BD4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=512BD4)](https://example.com/)
 [![MySql](https://img.shields.io/badge/-MySql-512BD4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=512BD4)](https://example.com/)
 [![BootStrap](https://img.shields.io/badge/-BootStrap-512BD4?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=512BD4)](https://example.com/)
