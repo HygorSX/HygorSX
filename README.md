@@ -14,7 +14,7 @@
  <img width="37.6%"src="https://github-readme-stats.vercel.app/api/top-langs/?username=HygorSX&layout=compact&theme=midnight-purple" />
   </div>
   <div style="display: inline-block"><br>
-    <h2>Tecnologias💻</h2>
+    <h2>Tecnologias</h2>
     
 [![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=512BD4)](https://example.com/)
 [![HTML](https://img.shields.io/badge/-HTML-512BD4?style=for-the-badge&logo=html5&logoColor=white&labelColor=512BD4)](https://example.com/)
@@ -37,7 +37,7 @@
 
   </div><br>
  <div><br>
-    <h2>Contatos📱</h2>
+    <h2>Contatos</h2>
   <a href="https://www.linkedin.com/in/hygor-dev-backend/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-512BD4?style=for-the-badge&logo=linkedin&logoColor=white">
    </div>    
 
