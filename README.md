@@ -54,10 +54,4 @@ Estou sempre buscando evoluir meus conhecimentos em:
 
 ---
 
-### 📌 Repositórios em destaque
-
-🔹 [🔗 Pipeline ETL com Python (API DummyJSON)](https://github.com/HygorSX/seu-repo-aqui)  
-🔹 [🔗 Projeto ASP.NET MVC com CRUD de Produtos](https://github.com/HygorSX/seu-outro-repo-aqui)
-
----
 
