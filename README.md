@@ -1,7 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=A456F7&=true&vCenter=true&width=800&lines=Olá+,+eu+sou+o+Hygor+e+sou+apaixonado+por+programação.🌌+;+Seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg) 
-<p>Atualmente estou no segundo ano de informática para internet.</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=A456F7&=true&vCenter=true&width=800&lines=Hygor+Data+Enginner+;+Seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg) 
 
-- 🌱 Estou estudando C# e JS
 - 📫 Contate-me no e-mail: hygor.mecap@gmail.com
 
 <div>
