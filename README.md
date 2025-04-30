@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=A456F7&=true&vCenter=true&width=800&lines=Hygor+Data+Enginner+;+Seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg) 
 
-- 📫 Contate-me no e-mail: hygor.mecap@gmail.com
-
 <div>
 <picture>
 <source
