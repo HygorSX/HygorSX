@@ -15,16 +15,6 @@
 Sou um profissional em transição de carreira de **Desenvolvedor Backend C#** para **Engenheiro de Dados**.  
 Atualmente, estou focado em construir pipelines de dados robustos, organizar dados de forma eficiente e trabalhar com tecnologias de cloud, bancos de dados e processamento distribuído.
 
-Estou sempre buscando evoluir meus conhecimentos em:
-- Engenharia de Dados
-- Cloud (Azure, AWS)
-- Banco de dados (SQL, NoSQL)
-- ETL/ELT pipelines
-- Orquestração de dados
-- Big Data
-
----
-
 ### 🛠️ Tecnologias & Ferramentas
 
 **💡 Engenharia de Dados**
