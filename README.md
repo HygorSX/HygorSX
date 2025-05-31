@@ -1,16 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=0078D4&center=false&vCenter=false&width=800&lines=Hygor+%7C+Data+Engineer;Seja+bem-vindo(a)+ao+meu+perfil+GitHub!)](https://git.io/typing-svg)
 
-<div>
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=HygorSX&show_icons=true&theme=blueberry"/>
-    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=HygorSX&show_icons=true&theme=blueberry" />
-  </picture>
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HygorSX&layout=compact&theme=blueberry" />
-</div>
-
----
-
-### 🚀 Sobre mim
+###  Sobre mim
 
 Sou um profissional em transição de carreira de **Desenvolvedor Backend C#** para **Engenheiro de Dados**.  
 Atualmente, estou focado em construir pipelines de dados robustos, organizar dados de forma eficiente e trabalhar com tecnologias de cloud, bancos de dados e processamento distribuído.
