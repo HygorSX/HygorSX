@@ -36,6 +36,7 @@ Minha sólida trajetória no desenvolvimento backend (Python, C#, .NET, TypeScri
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+`Bot Development` `Microservices`
 
 #### 🔹 IA Generativa & Monitoramento
 ![LangChain](https://img.shields.io/badge/LangChain-169EFB?style=flat-square&logo=langchain&logoColor=white)
